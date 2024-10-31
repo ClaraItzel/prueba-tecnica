@@ -1,0 +1,8 @@
+{
+  "name": "prueba-tecnica",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "1f144e5a"
+}
